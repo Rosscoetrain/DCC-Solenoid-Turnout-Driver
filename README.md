@@ -15,9 +15,9 @@ Full construction and use in the file details.pdf
 
 
 
-Bill of Materials
+## Bill of Materials
 
-All builds:
+#### All builds:
 
 1 - PCB
 https://pcbway.com/project/shareproject/DCC_EX_Solenoid_Turnout_Driver_with_Capacitor_Discharge_Unit_8274534c.html
@@ -25,7 +25,7 @@ https://pcbway.com/project/shareproject/DCC_EX_Solenoid_Turnout_Driver_with_Capa
 1 - MCP23017 I2C Serial Interface - 16 bit I/O Expander Module
 https://ebay.com.au/itm/265734933121
 
-Minimum use:
+#### Minimum use:
 
 This is 4 turnouts and no CDU
 
@@ -46,7 +46,7 @@ This is 4 turnouts and no CDU
 1 - 4 way 2.54mm (0.1”) pitch screw terminal
 
 
-Maximum use:
+#### Maximum use:
 
 This is 8 turnouts and CDU
 
