@@ -11,6 +11,9 @@ Other brands of turnouts have not been tested.
 
 The maximum current for any one solenoid is 500mA, this is limited by the ULN2803 darlington drivers.
 
+Full construction and use in the file details.pdf
+
+
 
 Bill of Materials
 
@@ -27,7 +30,6 @@ Minimum use:
 This is 4 turnouts and no CDU
 
 1 - ULN2803 Darlington driver
-
 3 - 10K 1/8w resistors
 
 1 - 6 pin (3x2) male header
