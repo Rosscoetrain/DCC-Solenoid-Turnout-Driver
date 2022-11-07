@@ -20,7 +20,7 @@ Full construction and use in the file details.pdf
 #### All builds:
 
 1 - PCB
-https://pcbway.com/project/shareproject/DCC_EX_Solenoid_Turnout_Driver_with_Capacitor_Discharge_Unit_8274534c.html
+[Buy from pcbway](https://pcbway.com/project/shareproject/DCC_EX_Solenoid_Turnout_Driver_with_Capacitor_Discharge_Unit_8274534c.html)
 
 1 - MCP23017 I2C Serial Interface - 16 bit I/O Expander Module
 https://ebay.com.au/itm/265734933121
