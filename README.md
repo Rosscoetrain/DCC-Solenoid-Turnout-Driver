@@ -30,6 +30,7 @@ Minimum use:
 This is 4 turnouts and no CDU
 
 1 - ULN2803 Darlington driver
+
 3 - 10K 1/8w resistors
 
 1 - 6 pin (3x2) male header
