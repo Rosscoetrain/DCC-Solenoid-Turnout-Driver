@@ -78,12 +78,10 @@ This is 8 turnouts and CDU
 
 1 - 20 pin (10x2) female header
 
-1 - 2 way 2.54mm (0.1”) pitch screw terminal
-
 8 - 3 way 2.54mm (0.1”) pitch screw terminal
 
 1 - 4 way 2.54mm (0.1”) pitch screw terminal
 
-2 - 2 way 5.08mm (0.1”) pitch screw terminal
+1 - 2 way 5.08mm (0.1”) pitch screw terminal
 
 
